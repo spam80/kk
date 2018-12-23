@@ -1,4 +1,4 @@
-﻿token=NTI2NDMyMTUzNjAxNTcyODg1.DwFPzQ.nhM0ciWrQ4kbGks3ZiGYXjMpoM8
+token=NTI2NDMyMTUzNjAxNTcyODg1.DwFPzQ.nhM0ciWrQ4kbGks3ZiGYXjMpoM8
 owner=524901784431493140
 prefix= k!
 game= k!help
